@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MindSharpener</string>
+    <string name="first_number">8</string>
+    <string name="operator_value">+</string>
+    <string name="second_number">5</string>
+</resources>
